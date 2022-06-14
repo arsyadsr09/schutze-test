@@ -1,0 +1,26 @@
+.app-background {
+  background: #004b5a;
+  width: 100%;
+  min-height: 100vh;
+
+  position: relative;
+}
+
+.error-message {
+  background-color: #dd3d3d;
+  max-width: 20rem;
+}
+
+.button-bg-color {
+  background-color: #004b5a;
+  transition: all 0.3s ease-in-out;
+}
+
+.button-bg-color:hover {
+  background-color: #016377;
+  transition: all 0.3s ease-in-out;
+}
+
+.card-styled {
+  width: 400px;
+}
